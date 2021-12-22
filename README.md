@@ -10,6 +10,8 @@ Demo : [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongP
 
 Easy To Deploy 🤗
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ytbh/SongPlayRoBot/tree/master)
+
 ## 💡 Deploy This Bot To Heroku ❓️
 ```
 1) Fork The Repository,
